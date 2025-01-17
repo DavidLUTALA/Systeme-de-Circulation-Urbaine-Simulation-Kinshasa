@@ -55,15 +55,23 @@ Système de Circulation Urbaine - Simulation Kinshasa/
 
 ## 💻 **Installation**
 
+### **1. Pré-requis**
+- [Télécharger GAMA Platform](https://gama-platform.org/) pour exécuter les simulations.
+- Avoir les fichiers `.shp` nécessaires au projet.
+
+### **2. Installation**
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/username/projet-circulation.git
-   cd projet-circulation
+   git clone https://github.com/DavidLUTALA/Systeme-de-Circulation-Urbaine-Simulation-Kinshasa.git
+   cd Systeme-de-Circulation-Urbaine-Simulation-Kinshasa
    ```
+2. Ouvrez GAMA Platform et importez le projet zippé `Systeme-de-Circulation-Urbaine-Simulation-Kinshasa.zip`.
 
-2. **Configurer l'environnement** :
-   - Assurez-vous d’avoir GAMA Simulation Platform installée.
-   - Ouvrez le fichier principal `main.gaml` dans GAMA et lancez la simulation.
+### **3. Exécution**
+- Lancez la simulation et observez :  
+  - Les bus se déplaçant entre les arrêts.
+  - Les interactions entre les différents agents et infrastructures.
+
 
 ---
 
@@ -71,7 +79,7 @@ Système de Circulation Urbaine - Simulation Kinshasa/
 
 1. **Démarrer la Simulation** :
    - Ouvrir la simulation via GAMA.
-   - Choisir le scénario souhaité (type 3D).
+   - Choisir le scénario souhaité.
    - Observations des comportements des transports et des individus dans la ville.
 
 2. **Gestion des Usagers** :
