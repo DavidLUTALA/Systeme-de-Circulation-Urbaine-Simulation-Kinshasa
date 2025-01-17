@@ -8,6 +8,8 @@
 
 Le **Système de Circulation Urbaine - Simulation Kinshasa** est une simulation qui modélise le déplacement des véhicules (bus, véhicules privés, motos) et des individus dans une ville en utilisant des itinéraires prédéfinis. Le système simule les interactions entre les moyens de transport et les usagers, gérant des états dynamiques tels que le départ, l’arrivée, la gestion des billets et la capacité des véhicules.
 
+![Alt text](Images/img2.png)
+
 ---
 
 ## 🎯 **Objectifs du Projet**
@@ -16,6 +18,8 @@ Le **Système de Circulation Urbaine - Simulation Kinshasa** est une simulation 
 - **Modélisation des moyens de transport** : Bus, véhicules et motos avec des capacités limitées.
 - **Gestion des passagers** : Gestion des montées, des tickets, et des limitations de capacité.
 - **Développement basé sur l’interaction** : Simulation de la marche, des déplacements, et des interactions entre les différentes entités.
+
+![Alt text](Images/img1.png)
 
 ---
 
@@ -74,6 +78,8 @@ Système de Circulation Urbaine - Simulation Kinshasa/
    - Voir les interactions entre individus et véhicules.
    - Suivre les mouvements des personnes, l’achat de tickets et les transitions d’état.
 
+![Alt text](Images/img3.png)
+
 ---
 
 ## 📌 **Fonctionnalités Clés**
@@ -84,6 +90,8 @@ Système de Circulation Urbaine - Simulation Kinshasa/
   - Véhicules privés et motos avec systèmes similaires.
 - **Gestion des Passagers** : Billetterie, validation, et suivi du nombre de personnes à bord.
 
+![Alt text](Images/img4.png)
+
 ---
 
 ## 📬 **Auteur**
@@ -91,3 +99,5 @@ Système de Circulation Urbaine - Simulation Kinshasa/
 - **David LUTALA LUSHULI, ISSA SORO Fiti, Olivia Marthe Désirée HABACK, Ibrahima DIALLO**
 
 ---
+
+![Alt text](Images/img5.png)
